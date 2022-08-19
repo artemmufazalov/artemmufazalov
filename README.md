@@ -3,7 +3,7 @@
 <h3 align="left">About Me:</h3>
 <p>I am Frontend developer from Russia.</p>
 <p>Currently <b>I'm loking for a job as junior frontend developer.</b><br/> 
-While I do not have any working experience in frontend, I hope my repositories will prove my skills.</p>
+While I have little working experience in frontend, I hope my repositories will prove my skills.</p>
 
 
 <h3 align="left"> 📫 Contacts:</h3>
