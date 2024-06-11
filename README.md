@@ -30,3 +30,7 @@
 
 
 </p>
+
+----
+
+<img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&theme=tokyonight" alt="artemmufazalov github stats" />
