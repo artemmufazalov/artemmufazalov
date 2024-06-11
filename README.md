@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<h3 align="left">About Me:</h3>
-<p>Frontend developer from Russia.</p>
-
 <h3 align="left"> 📫 Contacts:</h3>
 - Email: artemmufazalov6197@gmail.com <br>
 - Telegram: <a href="https://t.me/artemmufazalov" alt="Telegram">@artemmufazalov</a>
