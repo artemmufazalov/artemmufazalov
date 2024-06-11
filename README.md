@@ -24,4 +24,4 @@
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&theme=tokyonight" alt="artemmufazalov github stats" />
+<img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&hide=contribs,stars,prs&theme=tokyonight&rank_icon=percentile&include_all_commits=true" alt="artemmufazalov github stats" />
