@@ -25,3 +25,8 @@
 ----
 
 <img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&hide=contribs,stars,prs&theme=tokyonight&include_all_commits=true" alt="artemmufazalov github stats" />
+
+---
+
+<!-- my-badges start -->
+<!-- my-badges end -->
