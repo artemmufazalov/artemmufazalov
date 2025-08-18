@@ -22,9 +22,13 @@
 
 </p>
 
-----
+---
 
 <img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&hide=contribs,stars,prs&theme=tokyonight&include_all_commits=true" alt="artemmufazalov github stats" />
+
+---
+
+<a href="https://leetcode.com/artemmufazalov/"><img src="https://leetcard.jacoblin.cool/artemmufazalov?theme=dark"/></a>
 
 ---
 
