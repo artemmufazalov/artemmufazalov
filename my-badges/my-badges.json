@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 325 times)\n2. update (used 129 times)\n3. fix (used 112 times)\n4. page (used 62 times)\n5. use (used 54 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 325 times)\n2. update (used 130 times)\n3. fix (used 112 times)\n4. page (used 62 times)\n5. use (used 54 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,28 +122,28 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4547</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4548</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4547</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4548</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4547</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4548</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4547</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4548</a>\n* <a href=\"https://github.com/ydb-platform/ydb-ui-components\">ydb-platform/ydb-ui-components: ★7</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/837f9e10ece30f1c597f94eaceea66cd743683c9\">837f9e1</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov.github.io/commit/836a08a57d2c74d32f3a597e4d4bc265ba891d49\">836a08a</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/0fbb6e277c340a4c1833c7f1014aea675a068e4c\">0fbb6e2</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/0a159fb0d478ddba9d165acc211ad6ed664b83d2\">0a159fb</a>\n- <a href=\"https://github.com/artemmufazalov/vpolis_test_app/commit/ed60a6e81bf807034b6b13931d71ca1ef3ded754\">ed60a6e</a>\n- <a href=\"https://github.com/artemmufazalov/vpolis_test_app/commit/c4171605647d283f1d00cb6cfa261dc47d1808dd\">c417160</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/1bcc1fabc1980e30bee45ef83bfd91c3580aadf7\">1bcc1fa</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/837f9e10ece30f1c597f94eaceea66cd743683c9\">837f9e1</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov.github.io/commit/836a08a57d2c74d32f3a597e4d4bc265ba891d49\">836a08a</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/0fbb6e277c340a4c1833c7f1014aea675a068e4c\">0fbb6e2</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/0a159fb0d478ddba9d165acc211ad6ed664b83d2\">0a159fb</a>\n- <a href=\"https://github.com/artemmufazalov/vpolis_test_app/commit/ed60a6e81bf807034b6b13931d71ca1ef3ded754\">ed60a6e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
