@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4558</a>
+* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4562</a>
 * <a href="https://github.com/ydb-platform/ydb-ui-components">ydb-platform/ydb-ui-components: ★7</a>
 * <a href="https://github.com/artemmufazalov/console_dungeon_game">artemmufazalov/console_dungeon_game: ★1</a>
 * <a href="https://github.com/artemmufazalov/react-caffe">artemmufazalov/react-caffe: ★1</a>
