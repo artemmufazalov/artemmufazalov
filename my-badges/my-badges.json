@@ -187,5 +187,12 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/8a546a1ab2f812acc1523c1c35738f4c605c32a5\">8a546a1</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/a822ed85a8a9969a3c6ad92ab9125f70007be2c4\">a822ed8</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/ydb-platform/ydb-embedded-ui/pull/335\">#335</a>: test: setup playwright e2e tests",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   }
 ]
