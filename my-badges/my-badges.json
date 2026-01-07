@@ -208,5 +208,12 @@
     "desc": "May the 4th be with you! Commits of force:",
     "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/cf1d5b7f71f1ad0456eded04193ab70e8accbaf5\">cf1d5b7</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/e734ffa57e62364b131198c0d03eeac22052d360\">e734ffa</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a43730bc6bb2bc50e23fbe77863c8cfce4a0fac7\">a43730b</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/492b32d0d97564215d11d34d72e2c07fe03368c6\">492b32d</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/471aadf4d6141cbd2969c98aa42239e5fa87de0d\">471aadf</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/abd26e1152c1945c0f834cf09c7ea2a119cb3444\">abd26e1</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/857572c1878834d6ffcb0181db1d353d362a2b37\">857572c</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/f643f5a89a3215d8f68db38dbbd773bae1346b7a\">f643f5a</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/fac503784f2909886a91dc71b18d5234f9d5f153\">fac5037</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
