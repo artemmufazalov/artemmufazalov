@@ -4,7 +4,6 @@
 - Email: artemmufazalov6197@gmail.com <br>
 - Telegram: <a href="https://t.me/artemmufazalov" alt="Telegram">@artemmufazalov</a>
 
-
 <h3 align="left"> ⚡Languages and Tools:</h3>
 <p align="left">
 
@@ -19,12 +18,13 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
 
-
 </p>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&hide=contribs,stars,prs&theme=tokyonight&include_all_commits=true" alt="artemmufazalov github stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=artemmufazalov&show_icons=true&locale=en&show=reviews,prs_merged&hide=contribs,stars,prs&theme=tokyonight&include_all_commits=true" alt="artemmufazalov github stats" /> -->
+
+![Stats](./profile/stats.svg)
 
 ---
 
