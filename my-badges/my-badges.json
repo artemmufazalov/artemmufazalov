@@ -189,13 +189,6 @@
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
-    "id": "pr-collaboration-5",
-    "tier": 1,
-    "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/ydb-platform/ydb-embedded-ui/pull/335\">#335</a>: test: setup playwright e2e tests",
-    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
-  },
-  {
     "id": "old-issue-1",
     "tier": 1,
     "desc": "I closed an issue that was open for a year",
