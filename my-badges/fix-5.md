@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/ff018a1e90404c2d7600d832723b2c75824aa786">ff018a1</a>: fix: unipika styles in one file (#1963)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/53e013c027d990100574463d5f9983206405ceef">53e013c</a>: fix: make SLO uppercase (#1959)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/c28ade6a94d63ff9fdd071d56b9970deff19e91b">c28ade6</a>: fix(ObjectSummary): refresh tabs with tree refresh, disable autorefresh (#1946)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/a2b7d1c74cf9933d179181e97885347c3a60d06c">a2b7d1c</a>: fix(Storage): fix disks view for degraded group (#1930)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/f648f0890b3e308a5875566a141be168302d3924">f648f08</a>: fix(VDisk): do not show vdisk as not replicated if no data (#1921)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/ba3e2a8d38b42077855033423aaa54a83f817176">ba3e2a8</a>: fix(QueriesHistory): move queries manipulations to hook (#3103)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/5908d6973d7e6b0461fc6422b2149039db6d8bea">5908d69</a>: fix(InformationPopup): update docs link (#3112)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/6f8182501344a26e23de6b78a89f8eafebf28193">6f81825</a>: fix(TenantNavigation): use query for tenant page (#3094)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/deed421afc0934fb9a375171e3d5a68176371c13">deed421</a>: fix(SavedQueries): move queries manipulations to hook (#3102)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/eb54851545fb05d26aaa8f8892a0dec4a99205b9">eb54851</a>: fix(QueryEditor): pass base64 from settings (#3093)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

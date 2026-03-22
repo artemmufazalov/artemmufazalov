@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9938bc275147cbfa2c79da954d0965371ee1574\">d9938bc</a>: chore: update healthcheck types (#2000)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/59097ff1bdc66166f2e80a8cb24a12ea228774a1\">59097ff</a>: chore: add comment to entity-state-colors (#3630)",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/b229301e167c8651550606ee5450f6d7f2409048\">b229301</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/da6dfcd856468ff89b031a2d6bbf710c7033ef5a\">da6dfcd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/351dbfb90965d3255a6b242bd67848bb2a2cbf7c\">351dbfb</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/29c36d92df33debcfb11130f1ee1307e5de9303d\">29c36d9</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/b229301e167c8651550606ee5450f6d7f2409048\">b229301</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/da6dfcd856468ff89b031a2d6bbf710c7033ef5a\">da6dfcd</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
@@ -45,35 +45,35 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 329 times)\n2. update (used 130 times)\n3. fix (used 112 times)\n4. page (used 62 times)\n5. use (used 55 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 349 times)\n2. update (used 134 times)\n3. fix (used 131 times)\n4. page (used 70 times)\n5. use (used 69 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/6b2880321f437a40be52f0b78207390c9019ad93\">6b28803</a>: fix(TopShards): display table for column entities (#1999)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/7c21d71c6fcf272da2329977be1af9671913372e\">7c21d71</a>: fix(PDiskInfo): display SharedWithOs only when true (#1991)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/58cf2f9f3d9ad14c9c73f9d4ee350aa778cb8e2d\">58cf2f9</a>: fix: reload page on NEED_RESET (#3614)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0c487f58e4a33e12baf94b937285eebad74a35fc\">0c487f5</a>: fix(FixedHeightQuery): highlight only rendered lines, postpone highlight (#3617)",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/d93e866d8333cdf2fa0f3b3e2a16065f1cc4358a\">d93e866</a>: fix(QueryResultTable): optimise rendering (#1697)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/f1644891c4c59f47f15fc28c2071ec020885aca0\">f164489</a>: fix: change default tables columns, reorder columns (#1694)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/017b983ceed8c0899e6837f91f6c1178abd6fa6f\">017b983</a>: fix(AsideNavigation): fix documentation link (#1687)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/f448d3a2ee284cafdd97a2f3be359f7ccb2998ce\">f448d3a</a>: fix(TablePreview): pass base64 setting (#3331)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c0cb5703cea5c25c3314a120ad32015032a7f5b\">9c0cb57</a>: fix(Node): wait for capabilities before tabs (#3314)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a88e08c73d8ef2579aed4682a52c813b5faa3e34\">a88e08c</a>: fix: fix e2e tests for sysviews (#3298)",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/fe3845c2f8203f4d2ca570232f15f23b4622a215\">fe3845c</a>: fix(SchemaViewer): use partitioning keys order from HashColumns (#1916)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0a497206b578f01af946fb53ebb969e83ebde5c1\">0a49720</a>: fix(PDiskSpaceDistribution): update slots severity calculation (#1907)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/4d9c2b6e5dbac9065e46794d96acbdddba66cfbf\">4d9c2b6</a>: fix(Configs,Operations): fix blicks on autorefresh (#1908)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0e8bdd8ea577f82be6d6b775b1f8ab22b771b4d9\">0e8bdd8</a>: fix(FormattedBytes): show 1_000 with another unit (#1901)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/34b78f63aaf3508003a6ba2859dde247e03b51c1\">34b78f6</a>: fix(HomePage): always require whoami for databases (#3573)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0402abfdc546c0705ea309ce01dcbce7d648c8d1\">0402abf</a>: fix(CpuTab): use CoresTotal as limit, show nodes, include Batch pool (#3540)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/df28d7cc625c7f9126fbacbc719e6a0cb227494d\">df28d7c</a>: fix(HomePage): render databases when whoami returns 403 (#3541)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/23169c3734aaf93c9e92f3e0e0e8cabc58329ece\">23169c3</a>: fix: use post requests for tablets actions (#3522)",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/ff018a1e90404c2d7600d832723b2c75824aa786\">ff018a1</a>: fix: unipika styles in one file (#1963)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/53e013c027d990100574463d5f9983206405ceef\">53e013c</a>: fix: make SLO uppercase (#1959)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/c28ade6a94d63ff9fdd071d56b9970deff19e91b\">c28ade6</a>: fix(ObjectSummary): refresh tabs with tree refresh, disable autorefresh (#1946)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a2b7d1c74cf9933d179181e97885347c3a60d06c\">a2b7d1c</a>: fix(Storage): fix disks view for degraded group (#1930)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/f648f0890b3e308a5875566a141be168302d3924\">f648f08</a>: fix(VDisk): do not show vdisk as not replicated if no data (#1921)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/ba3e2a8d38b42077855033423aaa54a83f817176\">ba3e2a8</a>: fix(QueriesHistory): move queries manipulations to hook (#3103)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/5908d6973d7e6b0461fc6422b2149039db6d8bea\">5908d69</a>: fix(InformationPopup): update docs link (#3112)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/6f8182501344a26e23de6b78a89f8eafebf28193\">6f81825</a>: fix(TenantNavigation): use query for tenant page (#3094)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/deed421afc0934fb9a375171e3d5a68176371c13\">deed421</a>: fix(SavedQueries): move queries manipulations to hook (#3102)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/eb54851545fb05d26aaa8f8892a0dec4a99205b9\">eb54851</a>: fix(QueryEditor): pass base64 from settings (#3093)",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "fix-6+",
     "tier": 6,
     "desc": "I did 7 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/6cab2df320535cb0c4fdcd163608f677e2c603a6\">6cab2df</a>: fix: always show required columns (#1374)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/d200b4c0d07060b946fb03d9332895f8b2583d41\">d200b4c</a>: fix(Storage): completely remove usage filter (#1375)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9e2573363f3e1c9aa54a5ed47d37821fffcdbc41\">9e25733</a>: fix(StorageNodes): uniform render type (#1376)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/12010ddd75d90b1e3f30e55916e39481298858b4\">12010dd</a>: fix(PDisk): show node host name in popup (#1352)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/4fe1a24a90e2bf2d86ef9c665ce6cb71d24519ea\">4fe1a24</a>: fix(Diagnostics): hide graph for column tables (#1356)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/73642db54728fb15be91de64e9ca0eb60ac2a857\">73642db</a>: fix(StorageGroups): make group id first column (#1351)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/e8beb4900685be5c7d7c339364d3941bd25fadda\">e8beb49</a>: fix(Storage): fix additional props not passed (#1350)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/2664ec7d96bc0352a62b3ef201f8710a35c499e1\">2664ec7</a>: fix(Tenants): do not add empty search to query (#2287)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/974775f76ecab425ae568670b276148f2cb10cdb\">974775f</a>: fix!: use uiFactory for logs and monitoring links (#2274)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/82f32d96ed868788b0e010318faddfce0a3996d1\">82f32d9</a>: fix(Tenants): move create db button to the right (#2275)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/404f72cad19b690fc7a0f2cc2d6b6cef972b16b3\">404f72c</a>: fix(Tenants): make state column wider (#2276)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/c10b3ff6eeaad8b78d5e4519def4d39b8031f4d5\">c10b3ff</a>: fix: floor disk usage values (#2253)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/3f3231584e4736e3f4199884d5390c911607eebf\">3f32315</a>: fix: add cry cat svg (#2246)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c7725767977464b01970e06bc2b068144ec483c\">9c77257</a>: fix(StatusIcon): add icons for grey and green statuses (#2203)",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/dde82b0769fa728b4b22f09ce6b40df4a9f86a15\">dde82b0</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/290bb183a98a21e74b49ae419cd64ed10074728e\">290bb18</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9938bc275147cbfa2c79da954d0965371ee1574\">d9938bc</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/6b2880321f437a40be52f0b78207390c9019ad93\">6b28803</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/7c21d71c6fcf272da2329977be1af9671913372e\">7c21d71</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/ba22a39e20f6417a9f24a2c0f5084cb63c4cf759\">ba22a39</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/23169c3734aaf93c9e92f3e0e0e8cabc58329ece\">23169c3</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9e4980daf2c4588bad2c3d12ffc8d0dc878efea\">d9e4980</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/703792e1c54034000b6d969120a09f896ae9c380\">703792e</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/668f1f9abde91bdbb1b41f4191a559c71664cec4\">668f1f9</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c0cb5703cea5c25c3314a120ad32015032a7f5b\">9c0cb57</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/689a547e7cbdc6d477c9cbff642987baf408a7e5\">689a547</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -206,7 +206,7 @@
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/857572c1878834d6ffcb0181db1d353d362a2b37\">857572c</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/f643f5a89a3215d8f68db38dbbd773bae1346b7a\">f643f5a</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/fac503784f2909886a91dc71b18d5234f9d5f153\">fac5037</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0c487f58e4a33e12baf94b937285eebad74a35fc\">0c487f5</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/59097ff1bdc66166f2e80a8cb24a12ea228774a1\">59097ff</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a0796cf4aec955d49bc10f11c5cb96caebe1240b\">a0796cf</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/7aacdfe8e939e730d2a1dbc10a7c7fa785f54bbb\">7aacdfe</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/577c9aa2f545e4792fac6fd299dea9f8653a9082\">577c9aa</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/857572c1878834d6ffcb0181db1d353d362a2b37\">857572c</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {

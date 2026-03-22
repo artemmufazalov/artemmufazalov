@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/dde82b0769fa728b4b22f09ce6b40df4a9f86a15">dde82b0</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/290bb183a98a21e74b49ae419cd64ed10074728e">290bb18</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9938bc275147cbfa2c79da954d0965371ee1574">d9938bc</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/6b2880321f437a40be52f0b78207390c9019ad93">6b28803</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/7c21d71c6fcf272da2329977be1af9671913372e">7c21d71</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/ba22a39e20f6417a9f24a2c0f5084cb63c4cf759">ba22a39</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/23169c3734aaf93c9e92f3e0e0e8cabc58329ece">23169c3</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9e4980daf2c4588bad2c3d12ffc8d0dc878efea">d9e4980</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/703792e1c54034000b6d969120a09f896ae9c380">703792e</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/668f1f9abde91bdbb1b41f4191a559c71664cec4">668f1f9</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c0cb5703cea5c25c3314a120ad32015032a7f5b">9c0cb57</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/689a547e7cbdc6d477c9cbff642987baf408a7e5">689a547</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

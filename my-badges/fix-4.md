@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/fe3845c2f8203f4d2ca570232f15f23b4622a215">fe3845c</a>: fix(SchemaViewer): use partitioning keys order from HashColumns (#1916)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/0a497206b578f01af946fb53ebb969e83ebde5c1">0a49720</a>: fix(PDiskSpaceDistribution): update slots severity calculation (#1907)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/4d9c2b6e5dbac9065e46794d96acbdddba66cfbf">4d9c2b6</a>: fix(Configs,Operations): fix blicks on autorefresh (#1908)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/0e8bdd8ea577f82be6d6b775b1f8ab22b771b4d9">0e8bdd8</a>: fix(FormattedBytes): show 1_000 with another unit (#1901)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/34b78f63aaf3508003a6ba2859dde247e03b51c1">34b78f6</a>: fix(HomePage): always require whoami for databases (#3573)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/0402abfdc546c0705ea309ce01dcbce7d648c8d1">0402abf</a>: fix(CpuTab): use CoresTotal as limit, show nodes, include Batch pool (#3540)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/df28d7cc625c7f9126fbacbc719e6a0cb227494d">df28d7c</a>: fix(HomePage): render databases when whoami returns 403 (#3541)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/23169c3734aaf93c9e92f3e0e0e8cabc58329ece">23169c3</a>: fix: use post requests for tablets actions (#3522)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

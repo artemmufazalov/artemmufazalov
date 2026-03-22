@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/6b2880321f437a40be52f0b78207390c9019ad93">6b28803</a>: fix(TopShards): display table for column entities (#1999)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/7c21d71c6fcf272da2329977be1af9671913372e">7c21d71</a>: fix(PDiskInfo): display SharedWithOs only when true (#1991)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/58cf2f9f3d9ad14c9c73f9d4ee350aa778cb8e2d">58cf2f9</a>: fix: reload page on NEED_RESET (#3614)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/0c487f58e4a33e12baf94b937285eebad74a35fc">0c487f5</a>: fix(FixedHeightQuery): highlight only rendered lines, postpone highlight (#3617)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

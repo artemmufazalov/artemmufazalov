@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9938bc275147cbfa2c79da954d0965371ee1574">d9938bc</a>: chore: update healthcheck types (#2000)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/59097ff1bdc66166f2e80a8cb24a12ea228774a1">59097ff</a>: chore: add comment to entity-state-colors (#3630)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,9 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/0c487f58e4a33e12baf94b937285eebad74a35fc">0c487f5</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/59097ff1bdc66166f2e80a8cb24a12ea228774a1">59097ff</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/a0796cf4aec955d49bc10f11c5cb96caebe1240b">a0796cf</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/7aacdfe8e939e730d2a1dbc10a7c7fa785f54bbb">7aacdfe</a>
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/577c9aa2f545e4792fac6fd299dea9f8653a9082">577c9aa</a>
 - <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/857572c1878834d6ffcb0181db1d353d362a2b37">857572c</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/f643f5a89a3215d8f68db38dbbd773bae1346b7a">f643f5a</a>
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/fac503784f2909886a91dc71b18d5234f9d5f153">fac5037</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

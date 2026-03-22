@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/d93e866d8333cdf2fa0f3b3e2a16065f1cc4358a">d93e866</a>: fix(QueryResultTable): optimise rendering (#1697)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/f1644891c4c59f47f15fc28c2071ec020885aca0">f164489</a>: fix: change default tables columns, reorder columns (#1694)
-- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/017b983ceed8c0899e6837f91f6c1178abd6fa6f">017b983</a>: fix(AsideNavigation): fix documentation link (#1687)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/f448d3a2ee284cafdd97a2f3be359f7ccb2998ce">f448d3a</a>: fix(TablePreview): pass base64 setting (#3331)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c0cb5703cea5c25c3314a120ad32015032a7f5b">9c0cb57</a>: fix(Node): wait for capabilities before tabs (#3314)
+- <a href="https://github.com/artemmufazalov/ydb-embedded-ui/commit/a88e08c73d8ef2579aed4682a52c813b5faa3e34">a88e08c</a>: fix: fix e2e tests for sysviews (#3298)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
