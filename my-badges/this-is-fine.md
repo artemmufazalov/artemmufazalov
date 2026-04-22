@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/ydb-platform/ydb-embedded-ui/pull/1330">#1330</a>: fix: do not send empty strings in filters
+- <a href="https://github.com/ydb-platform/ydb-embedded-ui/pull/2003">#2003</a>: feat(TopShards): colorize usage
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
