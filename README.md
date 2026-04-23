@@ -64,5 +64,4 @@
 <a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a>
 <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
-<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <!-- my-badges end -->
