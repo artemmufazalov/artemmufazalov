@@ -1,150 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/artemmufazalov/social_network/commit/a6e824d6303e503721a075fc47d04685c8c3f87b\"><strong>a</strong>6e824d6303e503721a075fc47d04685c8c3f87b</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/artemmufazalov/social_network/commit/ab5c0231673054b010c9113232bac5b19b2ae670\"><strong>ab</strong>5c0231673054b010c9113232bac5b19b2ae670</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/59097ff1bdc66166f2e80a8cb24a12ea228774a1\">59097ff</a>: chore: add comment to entity-state-colors (#3630)",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/aa1f0a228a3c95c65e3deada0ea0b11be958022f\">aa1f0a228a3c95c65e3<strong>dead</strong>a0ea0b11be958022f</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/351dbfb90965d3255a6b242bd67848bb2a2cbf7c\">351dbfb</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/29c36d92df33debcfb11130f1ee1307e5de9303d\">29c36d9</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/b229301e167c8651550606ee5450f6d7f2409048\">b229301</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/da6dfcd856468ff89b031a2d6bbf710c7033ef5a\">da6dfcd</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/social_network/commit/c38d2d454ec2e3bc00ba1183cd382c45ebdaf29a\">c38d2d4</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 348 times)\n2. update (used 132 times)\n3. fix (used 131 times)\n4. page (used 70 times)\n5. use (used 68 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/58cf2f9f3d9ad14c9c73f9d4ee350aa778cb8e2d\">58cf2f9</a>: fix: reload page on NEED_RESET (#3614)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0c487f58e4a33e12baf94b937285eebad74a35fc\">0c487f5</a>: fix(FixedHeightQuery): highlight only rendered lines, postpone highlight (#3617)",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/f448d3a2ee284cafdd97a2f3be359f7ccb2998ce\">f448d3a</a>: fix(TablePreview): pass base64 setting (#3331)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c0cb5703cea5c25c3314a120ad32015032a7f5b\">9c0cb57</a>: fix(Node): wait for capabilities before tabs (#3314)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a88e08c73d8ef2579aed4682a52c813b5faa3e34\">a88e08c</a>: fix: fix e2e tests for sysviews (#3298)",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "fix-4",
-    "tier": 3,
-    "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/34b78f63aaf3508003a6ba2859dde247e03b51c1\">34b78f6</a>: fix(HomePage): always require whoami for databases (#3573)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0402abfdc546c0705ea309ce01dcbce7d648c8d1\">0402abf</a>: fix(CpuTab): use CoresTotal as limit, show nodes, include Batch pool (#3540)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/df28d7cc625c7f9126fbacbc719e6a0cb227494d\">df28d7c</a>: fix(HomePage): render databases when whoami returns 403 (#3541)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/23169c3734aaf93c9e92f3e0e0e8cabc58329ece\">23169c3</a>: fix: use post requests for tablets actions (#3522)",
-    "image": "https://my-badges.github.io/my-badges/fix-4.png"
-  },
-  {
-    "id": "fix-5",
-    "tier": 4,
-    "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/ba3e2a8d38b42077855033423aaa54a83f817176\">ba3e2a8</a>: fix(QueriesHistory): move queries manipulations to hook (#3103)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/5908d6973d7e6b0461fc6422b2149039db6d8bea\">5908d69</a>: fix(InformationPopup): update docs link (#3112)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/6f8182501344a26e23de6b78a89f8eafebf28193\">6f81825</a>: fix(TenantNavigation): use query for tenant page (#3094)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/deed421afc0934fb9a375171e3d5a68176371c13\">deed421</a>: fix(SavedQueries): move queries manipulations to hook (#3102)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/eb54851545fb05d26aaa8f8892a0dec4a99205b9\">eb54851</a>: fix(QueryEditor): pass base64 from settings (#3093)",
-    "image": "https://my-badges.github.io/my-badges/fix-5.png"
-  },
-  {
-    "id": "fix-6",
-    "tier": 5,
-    "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/6fa1e0bddaa40a972d2160959fba80773d567830\">6fa1e0b</a>: fix: add margin for developer ui button (#1041)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/c8f3182fc776fac7200d23ce8f34f0b506a95ab3\">c8f3182</a>: fix(TenantOverview): add correct tablet storage value (#1040)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/e1c8f836be0f577c043121c5c5cb7cbb1f6798e8\">e1c8f83</a>: fix(Overview): use stats from describe for all column tables (#1026)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a453d0ab11c055846022c6731480812a0356fd2a\">a453d0a</a>: fix(Overview): disable column tables stats request (#1024)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a06f1df4416ab71f4fd80797de5734567a3c453b\">a06f1df</a>: fix(Versions): return lost copy button (#1003)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0ac18ea3915c5d9d36c1fbcbdf59b6f9769d3f51\">0ac18ea</a>: fix(Graph): fix broken tab for column tables (#1004)",
-    "image": "https://my-badges.github.io/my-badges/fix-6.png"
-  },
-  {
-    "id": "fix-6+",
-    "tier": 6,
-    "desc": "I did 7 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/2664ec7d96bc0352a62b3ef201f8710a35c499e1\">2664ec7</a>: fix(Tenants): do not add empty search to query (#2287)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/974775f76ecab425ae568670b276148f2cb10cdb\">974775f</a>: fix!: use uiFactory for logs and monitoring links (#2274)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/82f32d96ed868788b0e010318faddfce0a3996d1\">82f32d9</a>: fix(Tenants): move create db button to the right (#2275)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/404f72cad19b690fc7a0f2cc2d6b6cef972b16b3\">404f72c</a>: fix(Tenants): make state column wider (#2276)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/c10b3ff6eeaad8b78d5e4519def4d39b8031f4d5\">c10b3ff</a>: fix: floor disk usage values (#2253)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/3f3231584e4736e3f4199884d5390c911607eebf\">3f32315</a>: fix: add cry cat svg (#2246)\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c7725767977464b01970e06bc2b068144ec483c\">9c77257</a>: fix(StatusIcon): add icons for grey and green statuses (#2203)",
-    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/79b3c58fb7c3ff7f123e111189b10f42c5272401\">79b3c58</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "leap-day",
-    "tier": 0,
-    "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/ba598ad323c17ce60685efde4b91ad28ad482b74\">ba598ad</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/775bacfda549e5cea09ea03069908a59c12c0c3e\">775bacf</a>",
-    "image": "https://my-badges.github.io/my-badges/leap-day.png"
-  },
-  {
     "id": "rebel-coder",
     "tier": 0,
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
     "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/74b27f7758287dfc6861b9de032b24a4288aea63\">74b27f7</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/7bd2262ba583f7d007929d2d2d5c3ed9a1829a85\">7bd2262</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4754</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
-  },
-  {
-    "id": "stars-500",
-    "tier": 2,
-    "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4754</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-500.png"
-  },
-  {
-    "id": "stars-1000",
-    "tier": 3,
-    "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4754</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
-  },
-  {
-    "id": "stars-2000",
-    "tier": 4,
-    "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4754</a>\n* <a href=\"https://github.com/artemmufazalov/console_dungeon_game\">artemmufazalov/console_dungeon_game: ★1</a>\n* <a href=\"https://github.com/artemmufazalov/react-caffe\">artemmufazalov/react-caffe: ★1</a>\n* <a href=\"https://github.com/ydb-platform/monaco-ghost\">ydb-platform/monaco-ghost: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
     "id": "the-ultimate-question",
@@ -154,59 +14,10 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/23169c3734aaf93c9e92f3e0e0e8cabc58329ece\">23169c3</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/d9e4980daf2c4588bad2c3d12ffc8d0dc878efea\">d9e4980</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/703792e1c54034000b6d969120a09f896ae9c380\">703792e</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/668f1f9abde91bdbb1b41f4191a559c71664cec4\">668f1f9</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/9c0cb5703cea5c25c3314a120ad32015032a7f5b\">9c0cb57</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/689a547e7cbdc6d477c9cbff642987baf408a7e5\">689a547</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/1bcc1fabc1980e30bee45ef83bfd91c3580aadf7\">1bcc1fa</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/837f9e10ece30f1c597f94eaceea66cd743683c9\">837f9e1</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov.github.io/commit/836a08a57d2c74d32f3a597e4d4bc265ba891d49\">836a08a</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/0fbb6e277c340a4c1833c7f1014aea675a068e4c\">0fbb6e2</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/0a159fb0d478ddba9d165acc211ad6ed664b83d2\">0a159fb</a>\n- <a href=\"https://github.com/artemmufazalov/vpolis_test_app/commit/ed60a6e81bf807034b6b13931d71ca1ef3ded754\">ed60a6e</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/react-caffe/commit/7d443082b73fa618d3ff3d0bf9501298af6ce271\">7d44308</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/8a546a1ab2f812acc1523c1c35738f4c605c32a5\">8a546a1</a>\n- <a href=\"https://github.com/artemmufazalov/artemmufazalov/commit/a822ed85a8a9969a3c6ad92ab9125f70007be2c4\">a822ed8</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/cf1d5b7f71f1ad0456eded04193ab70e8accbaf5\">cf1d5b7</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/e734ffa57e62364b131198c0d03eeac22052d360\">e734ffa</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a43730bc6bb2bc50e23fbe77863c8cfce4a0fac7\">a43730b</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/492b32d0d97564215d11d34d72e2c07fe03368c6\">492b32d</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/471aadf4d6141cbd2969c98aa42239e5fa87de0d\">471aadf</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/abd26e1152c1945c0f834cf09c7ea2a119cb3444\">abd26e1</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/0c487f58e4a33e12baf94b937285eebad74a35fc\">0c487f5</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/59097ff1bdc66166f2e80a8cb24a12ea228774a1\">59097ff</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/a0796cf4aec955d49bc10f11c5cb96caebe1240b\">a0796cf</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/7aacdfe8e939e730d2a1dbc10a7c7fa785f54bbb\">7aacdfe</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/577c9aa2f545e4792fac6fd299dea9f8653a9082\">577c9aa</a>\n- <a href=\"https://github.com/artemmufazalov/ydb-embedded-ui/commit/857572c1878834d6ffcb0181db1d353d362a2b37\">857572c</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/artemmufazalov/console_dungeon_game/commit/9efbc88697656179f3f5080d0c5535cc129a8353\">9efbc88</a>\n- <a href=\"https://github.com/artemmufazalov/console_dungeon_game/commit/003e02d330da57bfb5ddffc0bbd7a69c0a4c1e56\">003e02d</a>\n- <a href=\"https://github.com/artemmufazalov/console_dungeon_game/commit/03586691953e75da134c46861228dafc538b6707\">0358669</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
