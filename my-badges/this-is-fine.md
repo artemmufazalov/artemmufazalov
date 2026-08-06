@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/ydb-platform/ydb-embedded-ui/pull/2003">#2003</a>: feat(TopShards): colorize usage
+- <a href="https://github.com/ydb-platform/ydb-embedded-ui/pull/2453">#2453</a>: fix(Clusters): filter empty DC
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
