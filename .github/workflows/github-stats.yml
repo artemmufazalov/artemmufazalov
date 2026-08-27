@@ -5,6 +5,7 @@ on:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
 
+# https://github.com/stats-organization/github-readme-stats-action
 jobs:
   build:
     runs-on: ubuntu-latest
